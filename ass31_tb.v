@@ -1,5 +1,4 @@
 `timescale 1ns/1ps
-`include "ass31.v"
 
 module tb3();
 reg [5:0]a;
